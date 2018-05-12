@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43440'
     url: http://www.gutenberg.org/2009/agents/43440
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45763#The-New-England-Historical--amp--Genealogical-Register-Vol.-I.-No.-2-April-1847
 gutenberg_issued: '2014-05-26'
 gutenberg_type: Text
 identifiers:
