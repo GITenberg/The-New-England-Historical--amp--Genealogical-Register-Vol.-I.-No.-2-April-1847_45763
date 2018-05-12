@@ -1,0 +1,34 @@
+_repo: The-New-England-Historical--amp--Genealogical-Register-Vol.-I.-No.-2-April-1847_45763
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45763-h/images/cover_tp.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Cogswell, William
+    birthdate: 1787
+    deathdate: 1850
+    gutenberg_agent_id: '43440'
+    url: http://www.gutenberg.org/2009/agents/43440
+description: ''
+gutenberg_issued: '2014-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Genealogy -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'New England -- History -- Periodicals'
+- !lcsh 'New England -- Genealogy -- Periodicals'
+- !lcsh 'New England Historic Genealogical Society -- Periodicals'
+title: The New England Historical & Genealogical Register, Vol. 1, No. 2, April 1847
+url: http://www.gutenberg.org/ebooks/45763
